@@ -1,2 +1,2 @@
-# EMI-Calculator-
-Trying out basic projects with streamlit. 
+# Car Loan EMI Calculator
+* Basic EMI calculator using streamlit 
